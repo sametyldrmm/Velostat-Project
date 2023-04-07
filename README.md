@@ -64,3 +64,6 @@ If you are going to do this project using STM, you can get support from these re
 ###### RESOURCES
 
 - [cd74hc4067 Multiplexer](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
+
+
+my business partner Bilal Orhanlar : https://github.com/bilalorhanlr
